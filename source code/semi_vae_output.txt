@@ -1,0 +1,4 @@
+laten_size: 32 batch_size:64 sample_size:2000 random_time:0 p:0.50333 r:0.46272 F1:0.48217
+laten_size: 32 batch_size:64 sample_size:2000 random_time:1 p:0.53537 r:0.51788 F1:0.52648
+laten_size: 32 batch_size:64 sample_size:2000 random_time:2 p:0.50662 r:0.46885 F1:0.487
+laten_size: 32 batch_size:64 sample_size:2000 average_precision:0.51511 average_recall:0.48315 average_F1:0.49855 std_precision:0.01439 std_recall:0.02468 std_F1:0.01985
